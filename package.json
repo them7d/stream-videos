@@ -24,6 +24,7 @@
     "eslint-plugin-react-refresh": "^0.4.4",
     "express": "^4.18.2",
     "fs": "^0.0.1-security",
+    "react-fontawesome": "^1.7.1",
     "react-hook-form": "^7.49.3",
     "react-native-fs": "^2.20.0",
     "throttle": "^1.0.3",
