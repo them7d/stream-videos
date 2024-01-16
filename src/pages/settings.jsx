@@ -1,10 +1,9 @@
-var FA = require('react-fontawesome')
 import Header from "../components/header";
 export default function Settings() {
       return (
             <div>
                   <Header/>
-                  <div className="content p-5 flex">
+                  <div className="contsssent p-5 flex">
                         <div className="img relative  max-w-[300px] max-h-[300px]">
                               <div className="img_container rounded-full overflow-hidden w-full h-full">
                                     <img src="https://picsum.photos/300/300" alt="user" className="w-[300px] h-[300px]" />
